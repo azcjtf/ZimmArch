@@ -1,0 +1,16 @@
+FIRST: MAKE SURE YOU HAVE .NET 4.7.2!!!!
+
+I see constant errors reported because people do not meet the minimum requirements.
+
+https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472
+
+
+Do not run XWFIM by double clicking on it in the Zip file.
+Extract it to your desktop and run it from there.
+
+Do not put XWFIM in the X-Ways folder and run it from there.
+
+DO NOT INSTALL X-WAYS TO PROGRAM FILES. IT DOES NOT BELONG THERE!!!
+
+If you insist on not following these guidelines, make sure to run XWFIM as an administrator
+
